@@ -4,7 +4,7 @@ requires = [
     "setuptools>=42",
     "wheel>=0.37.1",
     "web3==5.28.0",
-    "hexbytes==0.2.2"
+    "hexbytes==0.2.2",
     "djangorestframework>=3.11.2"
 ]
 build-backend = "setuptools.build_meta"
