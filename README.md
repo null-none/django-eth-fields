@@ -1,7 +1,7 @@
 Django Eth Fields
 ===================
 
-**Helpers for Python Django projects using ethereum**
+Helpers for Python Django projects using ethereum
 
 
 Installation
@@ -9,7 +9,6 @@ Installation
 
 Using pip
 
-.. code:: bash
 
     $ pip install django-eth-fields
 
@@ -17,7 +16,6 @@ Using pip
 Example
 -----
 
-.. code:: python
 
     from django_eth_fields.fields import EthereumAddressField, HexField, Uint256Field
 
